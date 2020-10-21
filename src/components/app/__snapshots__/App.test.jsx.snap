@@ -2,8 +2,325 @@
 
 exports[`App component renders App 1`] = `
 <DocumentFragment>
-  <h1>
-    Hello World
-  </h1>
+  <ul
+    class="ArticleList"
+  >
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Rudy Guiliani on legitimacy of Hunter Biden emails
+        </h3>
+        <h4>
+          FOX News Videos
+        </h4>
+        <p>
+          The former mayor of New York City and attorney for President Trump Rudy Giuliani joins 'Life, Liberty & Levin.'
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair op-ed
+        </h3>
+        <h4>
+          Oma Seddiq
+        </h4>
+        <p>
+          Summary List PlacementWhile President Donald Trump's personal attorney Rudy Giuliani campaigns for his boss' reelection, his daughter is rallying behind former Vice President Joe Biden. 
+In a Vanity Fair column published Thursday, Caroline Giuliani openly exp…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom
+        </h3>
+        <h4>
+          Lucia Moses and Lauren Johnson
+        </h4>
+        <p>
+          Summary List Placement
+
+The right-leaning New York Post published an explosive report on Wednesday about Hunter Biden, the son of former Vice President and Presidential candidate Joe Biden. Facebook and Twitter acted to limit its spread, questioning its credi…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Rudy Giuliani said there's a '50/50' chance he worked with a Russian spy to obtain harmful information about the Bidens
+        </h3>
+        <h4>
+          Connor Perrett
+        </h4>
+        <p>
+          Summary List Placement
+
+Rudy Giuliani, the former mayor of New York City and one of President Donald Trump's personal lawyers, said in an interview with The Daily Beast that there was a "50/50" chance one of his associates was a spy for Russia.  
+"The chance …
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Trumps adds Covid denial to his emerging homestretch re-election message
+        </h3>
+        <h4>
+          John T. Bennett
+        </h4>
+        <p>
+          ‘Democrats want to paralyse us. I think, in part, because they want a bad economy,’ Rudy Giuliani says
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Conservatives Pull Google Into Their Plan to Let People Die
+        </h3>
+        <h4>
+          Rhett Jones
+        </h4>
+        <p>
+          The Great Barrington Declaration is the latest fringe evidence conservatives are using to bolster the argument that the U.S. just needs to embrace getting infected with covid-19. On Tuesday, the New York Times reported that White House officials are now citin…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          ‘Borat 2’ Will Debut on Amazon Prime Video Next Month
+        </h3>
+        <h4>
+          Ben Pearson
+        </h4>
+        <p>
+          Sacha Baron Cohen‘s Borat sequel, which was filmed and edited in secret earlier this year, now has a release date. Well, it’s actually more of a release window, since the official date hasn’t been revealed quite yet. Borat 2, which just received its own ludic…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          ‘Borat 2’ Teaser: Borat is Back With an Official Release Date on Amazon
+        </h3>
+        <h4>
+          Hoai-Tran Bui
+        </h4>
+        <p>
+          Borat is back, baby. And it’s like nothing at all has changed for the Kazakh TV personality played by Sacha Baron Cohen in the 14 years since he took America by storm. He’s got the same boxy suit, the same mustache, the same oblivious attitude — but this time…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          ‘Borat 2’ Releases a Very Nice Teaser Tied to the Presidential Debate
+        </h3>
+        <h4>
+          Hoai-Tran Bui
+        </h4>
+        <p>
+          If there’s one thing that can be singled out as the key to comedy, it’s timing. And Sacha Baron Cohen certainly timed his teaser for his Borat sequel right, releasing a video from the “Republic of Kazakhstan” praising President Trump’s performance in last nig…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          EXCLUSIVE: Giuliani tells Steven Crowder he has proof Hunter Biden's hard drive is authentic
+        </h3>
+        <h4>
+          BlazeTV Staff
+        </h4>
+        <p>
+          In an exclusive interview, Mayor Rudy Giuliani dropped a bombshell that may add more evidence of Joe Biden's first-hand knowledge of business his son, Hunter Biden, conducted in Ukraine. This comes despite the Biden campaign and Big Tech lashing out at New Yo…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          'He has dementia': Rudy Guiliani makes unfounded claims about Biden during rambling Fox News interview
+        </h3>
+        <h4>
+          Chris Riotta
+        </h4>
+        <p>
+          &lt;p&gt;The president’s lawyer left Fox News hosts looking uncomfortable as he ramped up his fake conspiracies against Joe Biden&lt;/p&gt;
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          EXCLUSIVE: Chinese whistleblower reveals Hunter Biden "sex tapes" contain video of Joe Biden's son sexually ABUSING multiple under-age Chinese teens
+        </h3>
+        <h4>
+          Mike Adams
+        </h4>
+        <p>
+          &lt;table&gt;
+ &lt;tr&gt;
+ &lt;td&gt;
+ 
+ &lt;/td&gt;
+ &lt;td&gt;
+ (Natural News) We have exclusive breaking news that changes the trajectory of the upcoming US election. Because we speak Mandarin Chinese, we have been able to hear the correct Chinese description of what’s on Hunter Biden’…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Caroline Rose Guiliani: Why You Should Vote for Biden & Harris
+        </h3>
+        <h4>
+          dianeravitch
+        </h4>
+        <p>
+          The children of prominent politicians are causing mighty waves. Kellyanne Conway’s daughter Claudia has one million followers on TikTok, Twitter and other social media outlets, where she regularly excoriates Trump and her parents. The niece of Donald Trump, M…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Computer repairman behind Biden email story is a pro-Trump conspiracy theorist
+        </h3>
+        <h4>
+          Mikael Thalen
+        </h4>
+        <p>
+          As it turns out, the computer repairman behind the New York Post's story surrounding alleged emails from Hunter Biden is an avid supporter of President Donald Trump and a conspiracy theorist.
+
+
+In an interview with the Daily Beast on Wednesday, John Paul Isaa…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Borat 2 Busts Rudy Giuliani in a Very Compromising Scene
+        </h3>
+        <h4>
+          Jim Vejvoda
+        </h4>
+        <p>
+          Rudy Giuliani, the former New York City mayor and the current personal attorney of President Donald Trump, is now embroiled in a personal scandal after being caught in a compromising position in Borat 2.
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Giuliani Claims US Intelligence 'Out To Get' Trump After Laptop Scam Backfires
+        </h3>
+        <h4>
+          John Amato
+        </h4>
+        <p>
+          Rudy Giuliani went on Fox and Friends this morning to promote Russia's (now fizzled) "October surprise." 
+As usual it was a despicable mess of lies, conspiracy theories, unverified information and things he wished were true against the Bidens. The story of th…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Hevder Trumps advokat videreformidlet russiske «fake news» til presidenten
+        </h3>
+        <h4>
+          Nora Thorp Bjørnstad
+        </h4>
+        <p>
+          Nok en gang spiller Trumps omstridte advokat Rudy Giuliani hovedrollen i et skittent drama. Amerikansk etterretning mener han har latt seg lure av desinformasjon fra russiske myndigheter, skriver Washington Post.
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Borat is Back and Looking To Give His Daughter Away as a Gift in First Trailer For BORAT: SUBSEQUENT MOVIEFILM
+        </h3>
+        <h4>
+          Joey Paur
+        </h4>
+        <p>
+          Sacha Baron Cohen is back as Borat to make fun of and insult Americans again and this time he’s brought his daughter along for the ride to try and give his daughter away as a gift. The first trailer for the film has been released and we finally have a real ti…
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Ron Johnson Calls On Former Buzzfeed Reporter To Verify Hunter Biden Email
+        </h3>
+        <h4>
+          Shelby Talcott
+        </h4>
+        <p>
+          Republican Wisconsin Sen. Ron Johnson called on a former Buzzfeed reporter to confirm the authenticity of an email allegedly found on Hunter Biden&#039;s laptop.
+        </p>
+      </div>
+    </li>
+    <li>
+      <div
+        class="Article"
+      >
+        <h3>
+          Trump Says Adam Schiff Should Be ‘Put Away’ After Suggesting Hunter Biden Laptop Stories Are Russian Disinformation
+        </h3>
+        <h4>
+          Shelby Talcott
+        </h4>
+        <p>
+          President Donald Trump said Adam Schiff &quot;ought to be put away&quot; over comments that the Hunter Biden laptop stories harbor traces of Russian disinformation.
+        </p>
+      </div>
+    </li>
+  </ul>
 </DocumentFragment>
 `;
