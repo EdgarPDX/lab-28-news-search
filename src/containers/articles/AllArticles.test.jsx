@@ -6,7 +6,7 @@ describe('AllArticles container', () => {
   it('renders AllArticles', () => {
     render(<AllArticles />);
 
-    screen.getByAltText('Loading gif');
+    screen.getByTestId('form id');
   });
 
   it('displays a list of articles', () => {
