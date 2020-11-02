@@ -1,0 +1,7 @@
+.Article {
+   margin: auto;
+   padding: 4px;
+   h3 {
+    font-size: 2rem;
+   }
+}
